@@ -36,6 +36,10 @@ out/
 ### VS Code ###
 .vscode/
 
+## .properties .yml files ##
+src/main/**/*.properties
+src/main/**/*.yml
+
 # Created by https://www.toptal.com/developers/gitignore/api/intellij,intellij+all,intellij+iml,windows,java,gradle
 # Edit at https://www.toptal.com/developers/gitignore?templates=intellij,intellij+all,intellij+iml,windows,java,gradle
 
